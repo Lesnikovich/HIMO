@@ -597,6 +597,14 @@ body{
         transform: translateX(50%);
     }
 
+    .characteristics{
+        margin-bottom: 0;
+    }
+
+    .slider{
+        margin-bottom: 100px;
+    }
+
     .slider__img{
         height: 300px;
     }
@@ -753,6 +761,10 @@ body{
 
     .form__label-box{
         justify-content: center;
+    }
+
+    .form__title{
+        margin-top: 0;
     }
     
 }
